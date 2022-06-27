@@ -6,7 +6,7 @@
     "NombreLinea": "ALIMENTOS",
     "NombreCategoria": "ALIMENTO",
     "TOTAL de ventas": 20.05,
-    "Fecha Factura*": "1/6/2022"
+    "Fecha Factura": "1/6/2022"
   },
   {
     "NombreSucursal": "Hacienda Yunguilla",
@@ -15,7 +15,7 @@
     "NombreLinea": "ALIMENTOS",
     "NombreCategoria": "MAQUINARIA",
     "TOTAL de ventas": 20.05,
-    "Fecha Factura*": "1/6/2022"
+    "Fecha Factura": "1/6/2022"
   },
   {
     "NombreSucursal": "Hacienda Yunguilla",
@@ -24,6 +24,6 @@
     "NombreLinea": "ALIMENTOS",
     "NombreCategoria": "AGROQUIMICOS",
     "TOTAL de ventas": 17.22,
-    "Fecha Factura*": "1/6/2022"
+    "Fecha Factura": "1/6/2022"
   }
 ]
