@@ -1,0 +1,20 @@
+[
+  {
+    "NombreSucursal": "Ventas",
+    "NombreCategoria": "ALIMENTO",
+    "TOTAL de ventas": 15000,
+    "Fecha Factura": "1/6/2022"
+  },
+  {
+    "NombreSucursal": "Hacienda Yunguilla",
+    "NombreCategoria": "MAQUINARIA",
+    "TOTAL de ventas": 12000,
+    "Fecha Factura": "1/6/2022"
+  },
+  {
+    "NombreSucursal": "El Molino",
+    "NombreCategoria": "AGROQUIMICOS",
+    "TOTAL de ventas": 18000,
+    "Fecha Factura": "1/6/2022"
+  }
+]
