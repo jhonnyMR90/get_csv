@@ -1,0 +1,20 @@
+{
+  "Hacienda Yunguilla": {
+    "TotalFactura": -10.36,
+    "NombreMarca": "CAFE 1200",
+    "NombreLinea": "ALIMENTOS",
+    "NombreCategoria": "ALIMENTO"
+  },
+  "VENTAS": {
+    "TotalFactura": -7,
+    "NombreMarca": "RED SUN",
+    "NombreLinea": "PLAGUICIDAS CONVENCIONALES",
+    "NombreCategoria": "INSECTICIDA"
+  },
+  "Hacienda Chuquipata": {
+    "TotalFactura": 792.9,
+    "NombreMarca": "PRODUCTOS HACIENDA",
+    "NombreLinea": "ALIMENTOS",
+    "NombreCategoria": "ALIMENTO"
+  }
+}
